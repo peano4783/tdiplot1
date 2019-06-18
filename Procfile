@@ -1,0 +1,1 @@
+web: bokeh serve --port=$PORT --num-procs=0 --host=obscure-island-36273.herokuapp.com --address=0.0.0.0 --use-xheaders plot.py
